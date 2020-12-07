@@ -7,6 +7,7 @@
 - Web Crawling
 - Data Visualization and Analysis
 - Web Full-Stack Develop
+- Some Education to Code Beginner
 
 ## What I made / worked
 - Panorama WebVR Campus Tour (http://vrcampus.inhatc.ac.kr/)
