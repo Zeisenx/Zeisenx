@@ -1,6 +1,13 @@
 
 # Rubbish Coder
 
+## I have experienced on
+- Reverse Engineering
+- Data Mining for custom binary format
+- Web Crawling
+- Data Visualization and Analysis
+- Web Full-Stack Develop
+
 ## What I made / worked
 - Panorama WebVR Campus Tour (http://vrcampus.inhatc.ac.kr/)
 - Fixed Framedisplay to works on Ougon Cross 2.31, Golden Fantasia (https://github.com/jmgao/framedisplay)
