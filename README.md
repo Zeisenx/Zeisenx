@@ -1,7 +1,7 @@
 
 # Rubbish Coder
 
-I started programming to self-education on 2010, but I stil write useless code
+I started programming to self-education on 2010, but I still write useless code
 
 ## I have experienced on
 - Reverse Engineering
