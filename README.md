@@ -1,6 +1,8 @@
 
 # Rubbish Coder
 
+I started programming to self-education on 2010, but I stil write useless code
+
 ## I have experienced on
 - Reverse Engineering
 - Data Mining for custom binary format
